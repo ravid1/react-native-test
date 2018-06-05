@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26551460979",
+    "firebase_url": "https://testsignin-eb755.firebaseio.com",
+    "project_id": "testsignin-eb755",
+    "storage_bucket": "testsignin-eb755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26551460979:android:6584fe8cc54d00f6",
+        "android_client_info": {
+          "package_name": "com.rn_test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26551460979-4cmpbtji91v300js4aljpu9iss47cgjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_test1",
+            "certificate_hash": "e29ec5ffb5df434d6ecc1e8df1f2f46c95ff9810"
+          }
+        },
+        {
+          "client_id": "26551460979-uhrtbpjs8js1uefj3celis6enlluh1j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Yr-hfvSd10_Wcti9fttV8ACZd3ugl4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26551460979-dtj7ib6o5t9hro2186ptoeodsvl30qso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
