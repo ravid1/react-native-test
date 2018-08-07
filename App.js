@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import { StyleSheet, Text, View, Image } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
-import FacebookLogin from "./FacebookLogin";
-import GoogleLogIn from "./GoogleLogIn";
+import FacebookLogin from "./Components/FacebookLogin";
+import GoogleLogIn from "./Components/GoogleLogIn";
 
 type Props = {};
 export default class App extends Component<Props> {
